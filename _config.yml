@@ -2,7 +2,7 @@
 title: Jia-Hou Poh, Ph.D.
 description: Personal website for Jia-Hou Poh
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://jiahou-poh.github.io/"
 
 # User settings
 username: Jia-Hou Poh
