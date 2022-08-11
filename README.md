@@ -1,4 +1,5 @@
-## My attempt at a personal landing page.
+## Description
+My attempt at a personal website with Github pages.
 
 ## Credits
-This theme was forked from Nathan Randecker (https://github.com/nrandecker/particle)
+The theme used is designed by Nathan Randecker (https://github.com/nrandecker/particle).
